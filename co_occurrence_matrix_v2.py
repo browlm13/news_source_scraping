@@ -9,7 +9,7 @@ import os
 import json
 
 #my lib
-from src.text_editing import normalizers
+import normalizers
 
 #external
 import numpy as np
